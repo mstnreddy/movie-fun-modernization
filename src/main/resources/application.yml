@@ -23,4 +23,4 @@ logging.level:
 s3:
   accessKey: <access key id>
   secretKey: <secret access key>
-  bucketName: <name of the bucket>
+  bucketName: <name of e bucket>
